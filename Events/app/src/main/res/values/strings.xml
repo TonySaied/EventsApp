@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Events</string>
+    <string-array name="sort">
+        <item>Sort by rate</item>
+        <item>Sort by price</item>
+    </string-array>
 </resources>
